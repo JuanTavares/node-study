@@ -1,0 +1,22 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanTavares/node-study.git"
+  },
+  "author": "Juan Tavares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanTavares/node-study/issues"
+  },
+  "homepage": "https://github.com/JuanTavares/node-study#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
